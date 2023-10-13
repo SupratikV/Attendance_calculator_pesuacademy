@@ -29,3 +29,4 @@ btn.innerHTML = 'Show Attendance Calculator';
 // Append it to the page
 nav = document.querySelector ('#pge_menu');
 nav.appendChild (btn);
+//done
